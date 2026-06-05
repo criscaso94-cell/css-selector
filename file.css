@@ -1,0 +1,50 @@
+.jumbotron h1{
+    color: brown;
+}
+
+.nav span {
+    text-decoration: underline;
+}
+
+.jumbotron a {
+    color: brown;
+    
+}
+.jumbotron a:hover{
+    color: navy;
+}
+
+.blog-post:first-of-type{
+    font-family: italic;
+}
+
+.blog-post >hr{
+   background-color: red;
+}
+
+ol > li:nth-child(even){
+    font-family: italic;
+}
+.list-unstyled > li{
+   border: solid 2px;
+ }
+
+.blog-post:nth-child(3) p:first-of-type a {
+    background-color: aqua;
+}
+
+.blog-post:nth-child(4) ul li:nth-child(2){
+    color: red;
+}
+
+a.float-right{
+    color:brown ;
+}
+
+nav.blog-pagination a:nth-child(2){
+    color: brown;
+}
+
+footer a:nth-child(2){
+    color: brown;
+}
